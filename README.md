@@ -1,8 +1,11 @@
-Bravo Espinoza Edwin Sebastian
+# Bravo Espinoza Edwin Sebastian
 
-💻 Desarrollador Web | 🗄️ Enfoque en Bases de Datos
-🎓 Estudiante de Ingeniería en Sistemas
-♟️ Profesor de Ajedrez | 🎮 Creador de Juegos
+![Dev](https://img.shields.io/badge/Desarrollador%20Web-0A66C2?style=for-the-badge\&logo=google-chrome\&logoColor=white)
+![DB](https://img.shields.io/badge/Bases%20de%20Datos-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Sistemas](https://img.shields.io/badge/Ing.%20en%20Sistemas-6A1B9A?style=for-the-badge\&logo=academia\&logoColor=white)
+![Ajedrez](https://img.shields.io/badge/Ajedrez-000000?style=for-the-badge\&logo=lichess\&logoColor=white)
+![GameDev](https://img.shields.io/badge/Game%20Creator-FF6F00?style=for-the-badge\&logo=unity\&logoColor=white)
+
 
 ---
 
