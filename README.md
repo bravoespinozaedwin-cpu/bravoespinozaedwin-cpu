@@ -6,7 +6,7 @@ Bravo Espinoza Edwin Sebastian
 
 ---
 
-## 🚀 Sobre mí
+## 💼 Sobre mí
 Soy un desarrollador enfocado en la construcción de proyectos web funcionales, con interés en el manejo eficiente de datos y la lógica detrás de cada sistema.
 
 Trabajo con tecnologías como HTML, CSS, JavaScript y Python, complementando mis soluciones con bases de datos como MySQL y MongoDB.
@@ -29,6 +29,3 @@ Git | GitHub | Terminal | VS Code
 🎨 Creativo:
 CapCut | DaVinci Resolve | Canva | FL Studio
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
